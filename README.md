@@ -8,14 +8,14 @@ Deliverable 1: Scrape titles and preview text from Mars news articles.
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
-##Deliverable 1:
+Deliverable 1:
 
 Involved scraping data from a Mars news website using automated browsing with Splinter to visit the Mars news site, and extracting the html code with Beautiful Soup. The titles and preview text of the news articles were scraped, extracted and stored into a list of dictionaries.
 
 This was sone in a jupyter notbeook named "part_1_mars_news" and stored in this repository as "part_1_mars_news.ipynb".
 
 
-##Deliverable 2: 
+Deliverable 2: 
 
 Involved scraping and analyzing Mars Weather Data.
 The Mars Weather data website was opened using Splinter and the HTML table was extracted using Beautiful soup and  saved into a Pandas DataFrame named "df". The columns were appropriately named and the data types appropriately changed to allow easy analysis.
